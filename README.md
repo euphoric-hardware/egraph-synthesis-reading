@@ -5,6 +5,7 @@
 ### E-Graphs
 
 - [egg: Fast and Extensible Equality Saturation](https://dl.acm.org/doi/pdf/10.1145/3434304)
+- [incremental egraphs](https://rupanshusoi.github.io/pdfs/egraphs-25.pdf)
 
 ### E-Graph-based synthesis
 

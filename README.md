@@ -10,6 +10,7 @@
 
 - [ESFO: Equality Saturation for FIRRTL Optimization](https://dl.acm.org/doi/abs/10.1145/3583781.3590239)
 - [E-Syn: E-Graph Rewriting with Technology-Aware Cost Functions for Logic Synthesis](https://arxiv.org/html/2403.14242v1)
+- [e-graphs for technology mapping](https://www.cs.cornell.edu/courses/cs6120/2025sp/blog/superopt/)
 
 ### E-Graphs for EDA
 
